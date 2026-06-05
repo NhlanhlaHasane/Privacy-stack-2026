@@ -1,6 +1,3 @@
-# Privacy-stack-2026
- The Real Privacy Stack in 2026
-
 
 
 # The Real Privacy Stack in 2026: A Practical Guide for Everyone
